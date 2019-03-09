@@ -1,3 +1,5 @@
+package com.wzt.www;
+
 import java.awt.*;
 
 public class Apple {
